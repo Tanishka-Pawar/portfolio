@@ -1,22 +1,17 @@
-# Sweet Shop Website
+# Portfolio Website
+
+## About Me
+I am a B.E. Computer Science student specializing in **Java Full Stack Development**, passionate about building web applications and showcasing projects that demonstrate my skills and creativity.
 
 ## Overview
-The **Sweet Shop Website** is a responsive front-end web application that showcases a sweet shop’s products and offerings. It demonstrates my skills in **HTML, CSS, and JavaScript**, focusing on clean design, usability, and responsive layout.
-
----
+A personal portfolio website to showcase my **skills, projects, and achievements**. Includes sections like **Home, About, Skills, Projects, and Contact**, with a responsive and user-friendly design.
 
 ## Features
-- Displays sweet shop products with categories and pricing.
-- Fully responsive design for desktop and mobile.
-- Simple and intuitive navigation.
-- Built entirely using **HTML, CSS, and JavaScript**.
+- Clean and responsive layout  
+- Interactive elements with **JavaScript**  
+- Project showcase with links to GitHub  
+- Smooth navigation and user-friendly interface  
 
----
-
-## Technologies Used
-- **HTML** – Structure and content of the website.
-- **CSS** – Styling, layout, and responsiveness.
-- **JavaScript** – Interactivity and dynamic elements.
-
----
+## Technologies
+**HTML | CSS | JavaScript**  
 
